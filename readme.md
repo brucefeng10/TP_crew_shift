@@ -93,4 +93,7 @@
 
 ![avatar](./pics/排班参数.png)
 
-  
+
+## 3. 混合整数规划模型
+
+- 模型详见：[model.md](https://github.com/brucefeng10/TP_crew_shift/blob/master/model.md)
